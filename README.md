@@ -165,11 +165,11 @@ The 85-page document includes:
 ## 📞 Contact
 
 **Shivam Gupta**  
-- 📧 Email: [sgs.shivam99@outlook.com](mailto:sks.shivam339@zohomail.in)
-- 💼 LinkedIn: [linkedin.com/in/shivamgupta0303]()
+- 📧 Email: [sks.shivam339@zohomail.in](mailto:sks.shivam339@zohomail.in)
+- 💼 LinkedIn: [linkedin.com/in/]()
 - 🐙 GitHub: [github.com/Github-SG03](https://github.com/Github-SG03)
 - 📱 Phone: +91 9404495690
-- 🔗 Portfolio: [linktr.ee/shivamgupta99]()
+- 🔗 Portfolio: [linktr.ee/shivamgupta]()
 
 ---
 
@@ -181,7 +181,7 @@ This project is part of academic coursework and professional Wxperience. Code sa
 
 ## ⭐ Acknowledgements
 
-- **64 Squares LLC** for providing the opportunity and production infrastructure
+- **** for providing the opportunity and production infrastructure
 - Open-source communities: Apache Airflow, dbt Labs, Snowflake
 
 ---
