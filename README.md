@@ -1,12 +1,12 @@
-# Enterprise Pipeline Optimization for 64 Squares LLC (EPO-64)
+# Enterprise Pipeline Optimization (EPO-064)
 
-[![Project Status](https://img.shields.io/badge/Status-Production-success)](https://github.com/Github-SG03/enterprise-pipeline-optimization-64squares)
+[![Project Status](https://img.shields.io/badge/Status-Production-success)](https://github.com/Github-SG03/enterprise-pipeline-optimization)
 [![Technology](https://img.shields.io/badge/Stack-Snowflake%20%7C%20Airflow%20%7C%20PySpark%20%7C%20dbt-blue)](https://github.com/Github-SG03/enterprise-pipeline-optimization-64squares)
 [![Author](https://img.shields.io/badge/Author-Shivam%20Gupta-orange)](https://github.com/Github-SG03)
 
 ## 📋 Overview
 
-**Enterprise Pipeline Optimization (EPO-64)** is a production-grade ELT platform built during my internship at **64 Squares LLC, Pune** (Aug 2024 - Apr 2025). The system automates data ingestion from REST APIs and S3, transforms 10M+ rows/day using PySpark, and delivers analytics-ready marts via dbt on Snowflake—achieving >99% pipeline reliability and 35% cost reduction through incremental models and auto-suspend warehouses.
+**Enterprise Pipeline Optimization (EPO-64)** is a production-grade ELT platform .The system automates data ingestion from REST APIs and S3, transforms 10M+ rows/day using PySpark, and delivers analytics-ready marts via dbt on Snowflake—achieving >99% pipeline reliability and 35% cost reduction through incremental models and auto-suspend warehouses.
 
 ### Business Problem
 Unified subscription analytics (product usage, billing, support) to enable:
@@ -48,7 +48,7 @@ text
 
 | File/Folder | Description |
 |-------------|-------------|
-| **[EPO_64_Project_Document_Shivam_Gupta.pdf](./EPO_64_Project_Document_Shivam_Gupta.pdf)** | **Complete 85-page project report** (architecture, code, testing, user manual) |
+| **[Project_Document_Shivam_Gupta.pdf](.Project_Document_Shivam_Gupta.pdf)** | **Complete 85-page project report** (architecture, code, testing, user manual) |
 | `airflow/` | DAGs for ingestion, orchestration, backfills |
 | `spark/` | PySpark jobs (bronze → silver transforms) |
 | `dbt/` | dbt project (staging/marts models, tests, macros) |
@@ -60,7 +60,7 @@ text
 
 ## 📖 Full Documentation
 
-📄 **[Download Complete Project Report (PDF)](./EPO_64_Project_Document_Shivam_Gupta.pdf)**
+📄 **[Download Complete Project Report (PDF)](.Project_Document_Shivam_Gupta.pdf)**
 
 The 85-page document includes:
 - ✅ Company profile & business problem
@@ -155,27 +155,27 @@ The 85-page document includes:
 
 ## 🎓 Project Context
 
-**Organization:** 64 Squares LLC, Pune  
-**Role:** Junior Data Engineer Intern  
-**Duration:** August 2024 - April 2025  
-**Guide:** Mr.Pramod Deshmukh
+**Organization:** None 
+**Role:** Data Engineer
+**Duration:** March 2024-Present
+**Guide:** None
 
 ---
 
 ## 📞 Contact
 
 **Shivam Gupta**  
-- 📧 Email: [sgs.shivam99@outlook.com](mailto:sgs.shivam99@outlook.com)
-- 💼 LinkedIn: [linkedin.com/in/shivamgupta0303](https://www.linkedin.com/in/shivam-gupta-71a184221)
+- 📧 Email: [sgs.shivam99@outlook.com](mailto:sks.shivam339@zohomail.in)
+- 💼 LinkedIn: [linkedin.com/in/shivamgupta0303]()
 - 🐙 GitHub: [github.com/Github-SG03](https://github.com/Github-SG03)
-- 📱 Phone: +91 9140889870
-- 🔗 Portfolio: [linktr.ee/shivamgupta99](https://linktr.ee/shivamgupta99)
+- 📱 Phone: +91 9404495690
+- 🔗 Portfolio: [linktr.ee/shivamgupta99]()
 
 ---
 
 ## 📜 License
 
-This project is part of academic coursework and professional internship. Code samples and architecture patterns are available for reference under MIT License.
+This project is part of academic coursework and professional Wxperience. Code samples and architecture patterns are available for reference under strict License.
 
 ---
 
